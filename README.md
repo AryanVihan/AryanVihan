@@ -6,30 +6,13 @@ I focus on creating **automation-first products** and **AI-powered tools** that 
 
 I believe the fastest way to learn engineering is to **build real things**, connect real services, handle real edge cases, and iterate in public.
 
----
+| What I’m into | How I build | Currently |
+|-------------|------------|-----------|
+| Building MVPs that actually work | Ship early, iterate fast | Exploring deeper system automation |
+| AI-driven automation (voice, vision, workflows) | Prefer practical solutions over perfect theory | Improving product reliability and UX |
+| Full-stack development with modern tooling | Design systems to scale beyond prototypes | Leveling up by building production-grade projects |
+| Turning vague ideas into deployable products | Treat bugs and failures as learning |  |
+| Learning by doing, not by waiting to feel “ready” |  |  |
 
-### What I’m into
-- Building MVPs that actually work
-- AI-driven automation (voice, vision, workflows)
-- Full-stack development with modern tooling
-- Turning vague ideas into deployable products
-- Learning by doing, not by waiting to feel “ready”
-
----
-
-### How I build
-- Ship early, iterate fast  
-- Prefer practical solutions over perfect theory  
-- Design systems to scale beyond prototypes  
-- Treat bugs and failures as part of the learning loop  
-
----
-
-### Currently
-- Exploring deeper system automation
-- Improving product reliability and UX
-- Leveling up by building production-grade projects
-
----
 
 > Learning by building. Shipping by default.
